@@ -21,7 +21,7 @@ string isbn = "978-88-282-0501-2";
 int numeroPagine = 456;
 int peso = 580;
 
-double larghezza = 15;
+int larghezza = 15;
 double altezza = 22.3;
 double profondità = 3.5;
 
